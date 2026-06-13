@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="aimbot_x" value="331" />
+    <boolean name="6x" value="true" />
+    <int name="float_x" value="-333" />
+    <int name="aimbot_y" value="-193" />
+    <boolean name="BRDM" value="true" />
+    <boolean name="Crate" value="true" />
+    <int name="float_y" value="-542" />
+    <boolean name="Player Line" value="true" />
+    <boolean name="Weapon" value="true" />
+    <boolean name="Name" value="true" />
+    <boolean name="M416" value="true" />
+    <boolean name="UAZ" value="true" />
+    <boolean name="AUG" value="true" />
+    <boolean name="DBS" value="true" />
+    <boolean name="Dacia" value="true" />
+    <boolean name="UTV" value="true" />
+    <boolean name="Skeleton" value="true" />
+    <boolean name="M1014" value="true" />
+    <boolean name="Monster Truck" value="true" />
+    <boolean name="Grenade Alert" value="true" />
+    <boolean name="Enemy Landing Warning" value="true" />
+    <boolean name="Distance" value="true" />
+    <boolean name="RedZone Warning" value="true" />
+    <boolean name="Edge Warning" value="true" />
+    <boolean name="Buggy" value="true" />
+    <boolean name="Bike" value="true" />
+    <int name="height" value="1272" />
+    <int name="temp" value="1" />
+    <boolean name="Head" value="true" />
+    <boolean name="Self AED" value="true" />
+    <boolean name="Health" value="true" />
+    <boolean name="3x" value="true" />
+    <int name="fps" value="120" />
+    <boolean name="ESP Flickering Fix" value="true" />
+    <boolean name="Coupe RB" value="true" />
+    <boolean name="SCAR-L" value="true" />
+    <boolean name="S12K" value="true" />
+    <boolean name="DP28" value="true" />
+    <boolean name="Aim Warning" value="true" />
+    <int name="width" value="2772" />
+</map>
